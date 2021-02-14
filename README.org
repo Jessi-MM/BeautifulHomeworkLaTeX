@@ -1,4 +1,4 @@
-* BeautifulHomeworkLaTeX
+* BeautifullHomeworkLaTeX
 
 ** Introduction
 I show an example of how to write homeworks in LaTeX with different fonts than LaTeX offers by default. I also add boxes that highlight important equations ;)
@@ -9,4 +9,7 @@ I show an example of how to write homeworks in LaTeX with different fonts than L
 
 ** Requirements
 *** Compiler: XeLaTeX (Important for using the fontspec package)
+*** \documentclass: article (Important for using the fontspec package)
 I use the /Letters for Learners/ font as the main font, and /Dulcelin/ for the title. Both can be downloaded at: [[https://www.dafont.com/es/][DaFont]]
+
+
