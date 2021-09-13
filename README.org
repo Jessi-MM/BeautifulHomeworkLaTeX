@@ -1,4 +1,4 @@
-* BeautifullHomeworkLaTeX
+* BeautifulHomeworkLaTeX
 
 ** Introduction
 I show an example of how to write homeworks in LaTeX with different fonts than LaTeX offers by default. I also add boxes that highlight important equations ;)
